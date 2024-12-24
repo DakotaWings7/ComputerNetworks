@@ -1,0 +1,16 @@
+# Исключить временные файлы
+*.tmp
+*.log
+
+# Исключить сборки и бинарные файлы
+*.exe
+*.dll
+*.o
+*.out
+*.pdb
+*.sln
+*.vcxproj
+*.vcxproj.user
+*.vcxproj.filters
+.vs/
+/Project1/x64/
